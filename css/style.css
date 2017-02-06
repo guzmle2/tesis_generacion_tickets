@@ -1,0 +1,51 @@
+body {
+    background-image: url(../img/images.jpg);
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+footer.page-footer {}
+
+.waves-color-demo .btn:not(.waves-light),
+.waves-color-demo .btn-large:not(.waves-light) {
+    background-color: #FFFFFF;
+    color: #212121;
+}
+
+.contenedorLogin {
+    background: white;
+    border-radius: 30%;
+    padding: 20px;
+    opacity: 0.8;
+    padding: 13%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.collapsible-body {
+    background-color: #FFFFFF;
+}
+
+h4 {
+    color: white;
+}
+
+.sombra{
+color:white; 
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);"
+}
+
+
+nav .brand-logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 1.1rem;
+    padding: 0;
+}
